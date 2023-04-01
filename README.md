@@ -21,6 +21,7 @@ Indic Language NLP includes models for sentiment analysis, which can classify th
 
 ## Models and Datasets 🧰
 Indic Language NLP provides pre-trained models and datasets that can be used out-of-the-box for several tasks. The repository also includes resources for training custom models on specific domains and languages.
+It is important to note that the pre-trained models and datasets provided in Indic Language NLP are developed using data provided by `NIC (National Informatics Centre)`, which is a department of the Indian Government. Therefore, the dataset cannot be publicly shared or distributed, and the models should only be used for research and non-commercial purposes. However, users can still train their own models using their own datasets, or fine-tune the pre-trained models on their own specific domains and languages.
 
 ## Usage 🚀
 Indic Language NLP is a code pipeline designed for performing natural language processing tasks on Indic languages. The code is available in a Google Colab notebook, which can be accessed by opening the notebook in Colab and running the cells in order.
